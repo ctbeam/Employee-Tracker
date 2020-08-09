@@ -9,7 +9,7 @@
 
 ## Description:
 
-Using this application, a business owner can keep track of their various departments, employees, and roles, as well as managerial status within that department.
+This app ennables a business owner can keep track of their various departments, employees, and roles, as well as managerial status within that department.
 
 ## Installation:
 
